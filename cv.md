@@ -13,9 +13,8 @@
 # Tatiana Vedishcheva
 
 
-# Контакты для связи
-
-02680 Espoo, Finland
+# Contacts: 
+Location: 02680 Espoo, Finland
 tvvedishcheva@gmail.com
 https://github.com/TatianaVeda
 https://www.linkedin.com/in/tatiana-vedishcheva/
@@ -44,7 +43,7 @@ Visual eye, conscientious, detail-oriented
 
 
 
-# Примеры кода
+# Code example:
 
 
 </body>
@@ -56,4 +55,10 @@ Visual eye, conscientious, detail-oriented
 # Образование (включая пройденные курсы и тренинги)
 
 
-# Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+# Languages
+English - Intermediate (B1.2)
+Finnish - Intermediate (YKI-testi keskitaso 3)
+Russian - Native
+German - Basic
+
+
