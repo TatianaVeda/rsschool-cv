@@ -21,13 +21,16 @@ understand their needs put me in a meeting position between computers and the hu
 
 # Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 
-# TECH SKILLS & STRENGTHS
-Visual Studio Code, HTML, CSS
-Basics of JavaScript, Python, GitHub
-WordPress, Wix, Figma, Canva
-Notes, Miro, Slack, Google docs/forms/slides
-Photoshop, Gimp, CorelDraw, SpeedTree, Filmora
+# TECH SKILLS 
+VS Code, HTML, CSS
+Basics of JavaScript, Python
+Git, GitHub
+WordPress, Wix, 
+Figma, Canva
+Notes, Miro, Slack
+Adobe Photoshop, Gimp, CorelDraw, SpeedTree (3D), Filmora
 
+# STRENGTHS
 Analytical mindset and a results-oriented approach
 Empathy, humor, imagination, questioning
 Visual eye, conscientious, detail-oriented
