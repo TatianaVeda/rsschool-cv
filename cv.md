@@ -27,12 +27,10 @@ Basics of JavaScript, Python, GitHub
 WordPress, Wix, Figma, Canva
 Notes, Miro, Slack, Google docs/forms/slides
 Photoshop, Gimp, CorelDraw, SpeedTree, Filmora
+
 Analytical mindset and a results-oriented approach
 Empathy, humor, imagination, questioning
 Visual eye, conscientious, detail-oriented
-
-
-
 
 # Code example:
 
@@ -43,7 +41,20 @@ Visual eye, conscientious, detail-oriented
 
 
 # Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-# Образование (включая пройденные курсы и тренинги)
+
+
+The interactive interface prototype, FIGMA 
+https://www.figma.com/proto/HzVbcaRZsmH4UO7X494OpK/Display?kind=&node-id=300-2859&page-id=0%3A1&scaling=scale-down
+
+# Education, courses:
+
+Courses:
+Human-Centered Product Development, Tampere University of Applied Science (completed 2021) 
+<img width="562" alt="image" src="https://github.com/TatianaVeda/rsschool-cv/assets/33755571/dd4c0215-10e3-4bfb-a703-6df075348204">
+
+IT support basics, Coursera (completed)
+JavaScript,  Udemy (in progress)
+JavaScript/Front-end, Udemy (in progress)
 
 
 # Languages
