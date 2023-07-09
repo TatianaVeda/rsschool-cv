@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>CV</title>
-</head>
-  
-<body>
-<h1>CV</h1>
-<h1>Tatiana Vedishcheva</h1>
-  
-<header>  </header>
+ 
+<header>CV</header>
 
 # Tatiana Vedishcheva
 
