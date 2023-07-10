@@ -112,5 +112,3 @@ Senior PR-specialist, Sberbank, Russia
 - Finnish - Intermediate (YKI-testi keskitaso 3)  
 - Russian - Native  
 - German - Basic  
-
-
